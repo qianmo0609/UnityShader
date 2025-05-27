@@ -31,5 +31,5 @@ Material:
     - _intensity: 4.93
     - _radius: 1.4
     m_Colors:
-    - _Position: {r: 0.15, g: 0, b: -0.63, a: 0}
+    - _Position: {r: 0.3, g: 0, b: -0.63, a: 0}
   m_BuildTextureStacks: []
